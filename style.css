@@ -1,0 +1,72 @@
+.sprite {
+  background-image: rgba(255, 255, 255, 127);
+  display: inline;
+}
+
+
+.sprite-image1 {
+  width: 100px;
+  height: 100px;
+  background-position: -0px, -0px;
+}
+
+.sprite-image2 {
+  width: 100px;
+  height: 100px;
+  background-position: -200px, -0px;
+}
+
+.sprite-image4 {
+  width: 100px;
+  height: 100px;
+  background-position: -400px, -0px;
+}
+
+.sprite-image5 {
+  width: 100px;
+  height: 100px;
+  background-position: -600px, -0px;
+}
+
+.sprite-image6 {
+  width: 100px;
+  height: 100px;
+  background-position: -800px, -0px;
+}
+
+.sprite-image8 {
+  width: 100px;
+  height: 100px;
+  background-position: -1000px, -0px;
+}
+
+.sprite-image10 {
+  width: 100px;
+  height: 100px;
+  background-position: -1200px, -0px;
+}
+
+.sprite-image12 {
+  width: 100px;
+  height: 100px;
+  background-position: -1400px, -0px;
+}
+
+.sprite-image13 {
+  width: 100px;
+  height: 100px;
+  background-position: -1600px, -0px;
+}
+
+.sprite-image9 {
+  width: 100px;
+  height: 100px;
+  background-position: -1800px, -0px;
+}
+
+.sprite-image1 {
+  width: 100px;
+  height: 100px;
+  background-position: -2000px, -0px;
+}
+
